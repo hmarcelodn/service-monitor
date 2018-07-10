@@ -1,0 +1,16 @@
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.deps.json
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.runtimeconfig.json
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.runtimeconfig.dev.json
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.dll
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.pdb
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.dll
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.pdb
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.csprojResolveAssemblyReference.cache
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.RazorAssemblyInfo.cache
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.RazorAssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.RazorTargetAssemblyInfo.cache
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.dll
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.pdb

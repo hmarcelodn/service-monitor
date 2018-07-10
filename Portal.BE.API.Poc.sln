@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Portal.BE.API.Poc", "Portal.BE.API.Poc\Portal.BE.API.Poc.csproj", "{C1E3DEA7-A798-412D-A637-A44EC549A11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portal.BE.API.Poc.Chassis", "Portal.BE.API.Poc.Chassis\Portal.BE.API.Poc.Chassis.csproj", "{DC599714-1C37-4EB0-8E73-CCAFDC430302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E3DEA7-A798-412D-A637-A44EC549A11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E3DEA7-A798-412D-A637-A44EC549A11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E3DEA7-A798-412D-A637-A44EC549A11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E3DEA7-A798-412D-A637-A44EC549A11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC599714-1C37-4EB0-8E73-CCAFDC430302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC599714-1C37-4EB0-8E73-CCAFDC430302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC599714-1C37-4EB0-8E73-CCAFDC430302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC599714-1C37-4EB0-8E73-CCAFDC430302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A62062A8-BCB9-4A5E-B6BB-871ABEB68666}
+	EndGlobalSection
+EndGlobal

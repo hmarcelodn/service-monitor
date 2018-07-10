@@ -1,0 +1,12 @@
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.deps.json
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.dll
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\bin\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.pdb
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.csproj.CoreCompileInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.AssemblyInfoInputs.cache
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.AssemblyInfo.cs
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.dll
+C:\Users\BEL_DelNegroH\source\repos\Portal.BE.API.Poc\Portal.BE.API.Poc.Chassis\obj\Debug\netcoreapp2.1\Portal.BE.API.Poc.Chassis.pdb
